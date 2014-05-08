@@ -12,4 +12,8 @@ public List<MemberVo> getMemberList() {
 public void setMemberList(List<MemberVo> memberList) {
 	this.memberList = memberList;
 }
+
+public String toString(){
+	return null;
+}
 }
