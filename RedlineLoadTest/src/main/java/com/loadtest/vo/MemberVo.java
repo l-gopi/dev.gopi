@@ -1,4 +1,4 @@
-//member vo
+
 package com.loadtest.vo;
 
 public class MemberVo {
