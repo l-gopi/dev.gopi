@@ -1,4 +1,3 @@
-//from vo
 package com.loadtest.vo;
 
 import java.util.List;
