@@ -70,6 +70,6 @@ public boolean equals(Object obj) {
 }
 
 public String toString(){
-	return id+""+fname+" "+lname+" "+email;
+	return id+""+fname+" "+lname;
 }
 }
